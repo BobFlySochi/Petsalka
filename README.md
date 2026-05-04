@@ -85,6 +85,11 @@ I named it **"Petsalka"** (Пецалка) — because it goes *pets-pets-pets�
 
 And yes: it's hard to call it "my device". It's more like a fun way to repurpose a cheap relay module — and almost anyone can repeat it.
 
+
+
+https://github.com/user-attachments/assets/606d7f4b-9480-40fd-b7b4-cf0904625952
+
+
 ---
 
 ## 🛑 Disclaimer / How to Repeat Safely
