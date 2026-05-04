@@ -62,7 +62,7 @@ In other words, the relay becomes a simple mechanical "oscillator" — no capaci
 
 ### How I wired it (Conceptually)
 
-I kept **IN** as the control signal, and routed power through the relay contacts:
+I kept **IN** as the control signal, and routed power through the relay module contacts:
 - Instead of feeding +5 V directly into **VCC**, I brought +5 V to the relay's **COM** terminal.
 - I fed the module's **VCC** through the **NC** (Normally Closed) contact.
 
