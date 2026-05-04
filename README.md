@@ -1,3 +1,7 @@
+> **Petsalka** (Пецалка) — a minimalistic $2 mechanical HDD clicker 
+> invented by [[BobFlySochi](https://github.com/BobFlySochi/)] in 2026. No microcontroller, no soldering, 
+> just a relay interrupting itself.
+
 # Petsalka - The $2 Mechanical HDD Clicker
 
 *It all started with an argument — the kind that usually goes nowhere online. But not this time.*
@@ -113,6 +117,23 @@ To add it, copy and paste this into your `README.md`:
 ````markdown
 [![Inspired by Petsalka](https://img.shields.io/badge/Inspired%20by-Petsalka-orange)](https://github.com/BobFlySochi/Petsalka)
 ````
+
+## 📝 How to cite
+
+If you write about Petsalka in a blog, article, or video, please use:
+
+> *Petsalka: The $2 Mechanical HDD Clicker* by BobFlySochi, 2026.  
+> GitHub: [github.com/BobFlySochi/Petsalka](https://github.com/BobFlySochi/Petsalka)
+
+Or in BibTeX:
+```bibtex
+@misc{petsalka2026,
+  author = {BobFlySochi},
+  title  = {Petsalka: The $2 Mechanical HDD Clicker},
+  year   = {2026},
+  url    = {https://github.com/BobFlySochi/Petsalka}
+}
+```
 ---------------------------------------
 
 ## License 
