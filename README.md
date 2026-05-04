@@ -1,9 +1,9 @@
 # Petsalka - The $2 Mechanical HDD Clicker
 
-![Petsalka in action](link-to-your-photo-or-schematic.jpg) 
-<!-- Сюда потом вставите ссылку на фото -->
-
 *It all started with an argument — the kind that usually goes nowhere online. But not this time.*
+
+![Petsalka scheme](petsalka.png) 
+<!-- Сюда потом вставите ссылку на фото -->
 
 In a Telegram chat for retro-computer enthusiasts, someone showed off an "HDD clicker": a neat black PCB, a microcontroller, a handful of parts, trim pots, a buzzer… and a price tag around €25.
 
