@@ -99,7 +99,21 @@ If you recreate this:
 - Be careful when connecting to a live PSU. The +5V standby power is always on if the PSU is plugged in.
 - You are responsible for your own hardware. This is a hack, proceed at your own risk.
 
+---------------------------------------
 
+## 🔗 Linking back 
+
+If you build your own Petsalka or a derivative project, 
+please add this badge to your repository:
+
+[![Inspired by Petsalka](https://img.shields.io/badge/Inspired%20by-Petsalka-orange)](https://github.com/BobFlySochi/Petsalka)
+
+To add it, copy and paste this into your `README.md`:
+
+````markdown
+[![Inspired by Petsalka](https://img.shields.io/badge/Inspired%20by-Petsalka-orange)](https://github.com/BobFlySochi/Petsalka)
+````
+---------------------------------------
 
 ## License 
 
