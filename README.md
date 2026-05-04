@@ -19,7 +19,7 @@ The reply was polite, but definitely a challenge:
 
 ## 🤔 What I wanted to build
 
-The idea was obvious: take the signal from the drive activity LED (HDD LED) and turn it into sound. At first I was thinking the classic route: a transistor switch + a buzzer, maybe some RC shaping so the "clicks" would sound right.
+The idea was obvious: take the signal from the drive activity LED (HDD LED) and turn it into sound. At first I was thinking the classic route: a transistor switch + a buzzer, maybe some RC circuit so the "clicks" would sound right.
 
 I started digging through common circuits and sketching how to assemble it — and along the way I stumbled upon something that flipped the whole plan: switching **with a relay**.
 
