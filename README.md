@@ -98,3 +98,12 @@ If you recreate this:
 - Double-check the **input logic** (LOW/HIGH trigger) and the **HDD LED polarity** on your specific motherboard — it can differ between systems.
 - Be careful when connecting to a live PSU. The +5V standby power is always on if the PSU is plugged in.
 - You are responsible for your own hardware. This is a hack, proceed at your own risk.
+
+
+
+## License 
+
+This project is an open-source hardware and documentation project.
+
+- **The text, images, schematics, and all other documentation in this repository** are licensed under the **MIT License** (see [LICENSE](LICENSE) file). You are free to copy, modify, and distribute them.
+- **The hardware idea and design** itself is released into the public domain under the **CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W)** or, at your option, any later version. In simple terms: feel free to build, modify, and sell the Petsalka device, but if you publicly release your modifications to the hardware design, do so under the same license to keep it open.
